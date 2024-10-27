@@ -48,11 +48,23 @@
 
 ---
 
-### 📊 My Stats:
+<details>
+    <summary>More stuff about me</summary>
+    <br>
+
+### Github Streak:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidDavilaDev&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
+### Github Stats:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidDavilaDev&show_icons=true&theme=tokyonight)
 
+### Top Langs:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDavilaDev&theme=tokyonight&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+    
+</details>
+
+
 
